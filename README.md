@@ -1,5 +1,7 @@
 # examples
+
 a repo that contains examples
 
-**Table of Contents**
+## Table of Contents
+
 - [airflow-core](./airflow-core/)
